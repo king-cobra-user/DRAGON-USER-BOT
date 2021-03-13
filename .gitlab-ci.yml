@@ -1,0 +1,6 @@
+CheckUserBotWorking:
+
+  script:
+
+    - echo "Nothing"
+
