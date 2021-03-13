@@ -92,7 +92,7 @@ Simply clone the repository and run the main file:
 
 ```sh
 
-git clone https://github.com/legendx22/LEGEND-BOT
+git clone https://github.com/king-cobra-user/DRAGON-USER-BOT/edit/main/README.md
 
 cd DRAGON-BOT
 
