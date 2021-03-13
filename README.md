@@ -94,7 +94,7 @@ Simply clone the repository and run the main file:
 
 git clone https://github.com/legendx22/LEGEND-BOT
 
-cd LEGEND-BOT
+cd DRAGON-BOT
 
 virtualenv -p /usr/bin/python3 venv
 
